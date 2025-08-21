@@ -16,14 +16,12 @@ Goal: Practice e-commerce front-end + prepare for full-stack integration.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/Abhisekxtrz/Amazon-clone-using-HTML-and-CSS/edit/main/README.md
 
 
 Open index.html in your browser.
 (Optional: Serve with Live Server / any static file server).
 
-🌐 Base URL (for API Integration)
-https://api.example.com/v1
 
 🔑 Authentication
 
